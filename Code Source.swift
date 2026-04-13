@@ -3,7 +3,7 @@
  * Developed entirely on iPad with Swift Playgrounds
  * 
  * License: GNU General Public License v3.0
- * Copyright (c) 2026 [Sleath]
+ * Copyright (c) 2026 [Stealth]
  *
  * "A gift to the Open-Source community."
  */
